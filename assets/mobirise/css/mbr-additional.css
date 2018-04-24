@@ -1903,9 +1903,6 @@ body {
 .cid-qQ7rlfjwHP hr {
   margin: 2rem 0;
 }
-.cid-qQ0TI7Q4o8 {
-  background-image: url("../../../assets/images/background1.jpg");
-}
 .cid-qQ0TI7Q4o8 h1 {
   color: #616161;
 }
@@ -1916,6 +1913,15 @@ body {
 }
 .cid-qQ0TI7Q4o8 .mbr-section-subtitle {
   font-style: italic;
+}
+.cid-qQ0TI7Q4o8 H1 {
+  color: #ffffff;
+}
+.cid-qQ0TI7Q4o8 H3 {
+  color: #ffffff;
+}
+.cid-qQ0TI7Q4o8 P {
+  color: #ffffff;
 }
 .cid-qQ0W4QzaKy {
   padding-top: 120px;
