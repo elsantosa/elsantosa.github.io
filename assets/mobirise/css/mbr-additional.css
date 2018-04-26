@@ -2029,7 +2029,7 @@ body {
 .cid-qQkHhM7ROY {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #232323;
 }
 @media (max-width: 767px) {
   .cid-qQkHhM7ROY .content {
@@ -2109,4 +2109,7 @@ body {
 }
 .cid-qQkHhM7ROY .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-qQkHhM7ROY P {
+  color: #ff3366;
 }
