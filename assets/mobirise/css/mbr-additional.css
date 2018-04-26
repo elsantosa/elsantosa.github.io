@@ -1961,7 +1961,7 @@ body {
 .cid-qQiGQ1Mfzl {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/background3.jpg");
+  background-color: #ffd700;
 }
 .cid-qQiGQ1Mfzl .testimonials-container {
   margin: 0 auto;
@@ -1971,7 +1971,7 @@ body {
   margin-top: 3rem;
 }
 .cid-qQiGQ1Mfzl .testimonials-container .testimonials-item .user {
-  background: #ffffff;
+  background: #149dcc;
 }
 .cid-qQiGQ1Mfzl .testimonials-container .testimonials-item .user.row {
   margin: 0;
@@ -2001,6 +2001,21 @@ body {
   .cid-qQiGQ1Mfzl .testimonials-caption {
     padding: 0 2rem 2rem 2rem !important;
   }
+}
+.cid-qQiGQ1Mfzl .user_text I {
+  color: #ffffff;
+}
+.cid-qQiGQ1Mfzl .user_desk {
+  color: #ffffff;
+}
+.cid-qQiGQ1Mfzl .user_name {
+  color: #ffffff;
+}
+.cid-qQiGQ1Mfzl H2 {
+  color: #0f7699;
+}
+.cid-qQiGQ1Mfzl .mbr-section-subtitle {
+  color: #0f7699;
 }
 .cid-qQkBwAAymI {
   padding-top: 60px;
